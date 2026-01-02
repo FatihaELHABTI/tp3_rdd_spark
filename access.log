@@ -1,0 +1,7 @@
+127.0.0.1 - - [10/Oct/2025:09:15:32 +0000] "GET /index.html HTTP/1.1" 200 1024 "http://example.com" "Mozilla/5.0"
+192.168.1.10 - john [10/Oct/2025:09:17:12 +0000] "POST /login HTTP/1.1" 302 512 "-" "curl/7.68.0"
+203.0.113.5 - - [10/Oct/2025:09:19:01 +0000] "GET /docs/report.pdf HTTP/1.1" 404 64 "-" "Mozilla/5.0"
+198.51.100.7 - - [10/Oct/2025:09:25:48 +0000] "GET /api/data?id=123 HTTP/1.1" 500 128 "-" "PostmanRuntime/7.26.8"
+192.168.1.11 - jane [10/Oct/2025:09:30:05 +0000] "GET /dashboard HTTP/1.1" 200 4096 "http://intranet" "Mozilla/5.0"
+127.0.0.1 - - [10/Oct/2025:09:35:00 +0000] "GET /index.html HTTP/1.1" 200 1024 "-" "Mozilla/5.0"
+192.168.1.10 - john [10/Oct/2025:09:40:12 +0000] "GET /api/data?id=456 HTTP/1.1" 404 80 "-" "curl/7.68.0"

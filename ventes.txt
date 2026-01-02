@@ -1,0 +1,7 @@
+2023-10-10 Casablanca Laptop 1200
+2023-10-11 Paris Smartphone 800
+2023-11-15 Casablanca Tablet 450
+2024-01-20 Lyon Laptop 1300
+2024-02-10 Paris Laptop 1250
+2024-03-05 Casablanca Smartphone 820
+2024-05-12 Lyon Camera 600
